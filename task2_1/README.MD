@@ -6,4 +6,8 @@
 
 测试：`python test.py`
 
-本次实验参考借鉴了开源代码：`https://github.com/chenyuntc/simple-faster-rcnn-pytorch`
+
+
+## Reference
+
+`https://github.com/chenyuntc/simple-faster-rcnn-pytorch`
